@@ -1,0 +1,8 @@
+requests
+streamlit
+ddgs
+python-dotenv
+pytest
+beautifulsoup4
+reportlab
+python-docx
